@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.18.0](https://github.com/jdx/pitchfork/compare/v2.17.0...v2.18.0) - 2026-07-17
+
+### Added
+
+- full Windows support with CI ([#602](https://github.com/jdx/pitchfork/pull/602))
+
 ## [2.17.0](https://github.com/jdx/pitchfork/compare/v2.16.0...v2.17.0) - 2026-07-17
 
 ### Added
